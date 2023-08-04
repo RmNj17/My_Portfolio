@@ -8,7 +8,7 @@
 
 /*===== Colors =====*/
 :root{
-  --first-color: #F172A1;
+  --first-color: #208aae;
   --second-color: #b179e2;
 }
 
@@ -216,7 +216,8 @@ img{
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 295px;
+  height: 500px;
+  width: 595px;
 }
 
 /*BUTTONS*/
